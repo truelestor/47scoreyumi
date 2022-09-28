@@ -1,0 +1,18 @@
+{
+  "name": "47scoreyumi",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "What's Your Score ◄ Get Your FREE Credit Score What's Your Score, Check Your Credit For Free. Get My Credit Score For Free. Start Here Today",
+  "keywords": [
+    "What's Your Score",
+    "credit cards for 630 credit score",
+    "credit score 700 car loan",
+    "credit score lookup",
+    "credit score as a service"
+  ],
+  "repository": "https://github.com/truelestor/47scoreyumi.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
